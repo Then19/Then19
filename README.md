@@ -1,3 +1,5 @@
+<img align="center" src="https://www.codewars.com/users/Then19/badges/large" />
+
 ### That's how many people are interested in my profile
 ![Visitor Count](https://profile-counter.glitch.me/then19/count.svg)
 
