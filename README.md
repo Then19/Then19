@@ -2,6 +2,7 @@
 
 ### That's how many people are interested in my profile
 ![Visitor Count](https://profile-counter.glitch.me/then19/count.svg)
+### ,but 95% are my visits
 
 ## My Techs & Tools
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
